@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         } else {
             updateUI()
         }
+        print("BYU will win this week")
     }
     
     override func viewDidLoad() {
